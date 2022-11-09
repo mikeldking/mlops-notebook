@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mlops
+Version: 0.0.1
+Summary: A helper notebook plugin to interact with datasets
+Author: mikeldking
+Author-email: mikeldking@gmail.com
+License: MIT
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
