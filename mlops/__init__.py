@@ -1,3 +1,2 @@
 from .umap import umap
-
-__version__ = "0.0.1"
+from .widgets import umapWidget
