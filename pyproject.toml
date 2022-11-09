@@ -11,5 +11,5 @@ build-function = "hatch_jupyter_builder.npm_builder"
 [tool.hatch.version]
 
 [project]
-name = "mlops-notebook"
+name = "mlops"
 version = "0.0.1"
